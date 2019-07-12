@@ -5,8 +5,8 @@ services:
       - ./app:/app
     ports:
       - "8080:8080"
+      - "5678:5678"
     environment:
       - HOST=0.0.0.0
       - PORT=8080
       - LOG_LEVEL=debug
-    #command: /start-reload.sh
