@@ -16,17 +16,17 @@ You should have docker and docker compose istalled. When starting the applicatio
 To start you development environment just run :
 
 ```sh
-  docker-compose -f docker-compose.development.yml up
+  docker-compose up
 ```
 
 Or if you want to run the container in detached mode:
 
 ```sh
-  docker-compose -f docker-compose.development.yml up -d
+  docker-compose up -d
 ```
 
 To stop it:
 
 ```sh
-  docker-compose -f docker-compose.development.yml down
+  docker-compose down
 ```
