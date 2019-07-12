@@ -1,6 +1,6 @@
 # Python API Boilerplate - FastApi
 
-FastApi Documentation [Read more](https://github.com/tiangolo/fastapi#performance)d
+FastApi Documentation [Read more](https://fastapi.tiangolo.com/)
 
 ## Features
 
